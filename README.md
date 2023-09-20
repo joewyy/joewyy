@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jóel! <br/>">Programming Student</a>
+<h1>Hi, I'm Jóel! <br/>"Programming Student</a>
 
 <h2>👨‍💻 Abilities:</h2>
 
