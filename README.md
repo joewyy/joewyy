@@ -32,7 +32,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: [https://www.youtube.com/c/joshmadakor](https://www.youtube.com/channel/UCrjBnLaqzajJ50GdUI1L6_w)
+[youtube]: https://www.youtube.com/channel/UCrjBnLaqzajJ50GdUI1L6_w
 [instagram]: https://www.instagram.com/puguino/
 [linkedin]: www.linkedin.com/in/jóel-cáceres-laorden-1b03b1256
 
