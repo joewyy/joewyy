@@ -8,7 +8,7 @@
 - Good Teamwork<br>
 - Quick Learning<br>
 <h2>📺 My Projects </h2>
-[Asteroids] </br>https://www.youtube.com/watch?v=sHrQLqt_XeE</br>
+[Asteroids]https://www.youtube.com/watch?v=sHrQLqt_XeE
 
 <h2> 🤳 Connect with me:</h2>
 
