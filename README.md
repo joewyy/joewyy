@@ -9,7 +9,7 @@
 - Quick Learning<br>
 <h2>📺 My Projects </h2>
  
-- [Proyecto Asteroids](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Proyecto Asteroids](https://www.youtube.com/watch?v=aVwceH14xAI)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
