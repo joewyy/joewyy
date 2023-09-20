@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi, I'm Jóel! <br/><a href="https://github.com/joewyy">Programming Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
