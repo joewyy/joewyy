@@ -1,11 +1,12 @@
 <h1>Hi, I'm Jóel! <br/><a href="[https://github.com/joewyy]">Programming Student</a>
 
 <h2>👨‍💻 Abilities:</h2>
-- C++
-- C#
-- JavaScript
-- Good Teamwork
-- Quick Learning
+
+- C++<br>
+- C#<br>
+- JavaScript<br>
+- Good Teamwork<br>
+- Quick Learning<br>
 
 
 <h2>📺 My Projects</h2>
