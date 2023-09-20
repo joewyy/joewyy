@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jóel! <br/><a href="https://www.linkedin.com/in/jowy/">Programming Student</a>
+<h1>Hi, I'm Jóel! <br/><a href="https://github.com/joewyy">Programming Student</a>
 
 <h2>👨‍💻 Abilities:</h2>
 
@@ -21,7 +21,7 @@
 
 [youtube]: https://www.youtube.com/channel/UCrjBnLaqzajJ50GdUI1L6_w
 [instagram]: https://www.instagram.com/puguino/
-[linkedin]: www.linkedin.com/in/jóel-cáceres-laorden-1b03b1256
+[linkedin]: https://www.linkedin.com/in/jowy/
 
 
 
