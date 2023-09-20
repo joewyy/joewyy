@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jóel! <br/><a href="www.linkedin.com/in/jowy">Programming Student</a>
+<h1>Hi, I'm Jóel! <br/><a href="https://www.linkedin.com/in/jowy/">Programming Student</a>
 
 <h2>👨‍💻 Abilities:</h2>
 
