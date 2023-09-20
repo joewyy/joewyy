@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jóel! </a>
+<h1>Hi, I'm Jóel!</h1>
 
 <h2>👨‍💻 Abilities:</h2>
 
@@ -8,7 +8,7 @@
 - Good Teamwork<br>
 - Quick Learning<br>
 <h2>📺 My Projects </h2>
-  How to get into Cybersecurity Starting From Zero https://www.youtube.com/watch?v=a83ASGn_V_s
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
